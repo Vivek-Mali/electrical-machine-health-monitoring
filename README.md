@@ -1,4 +1,4 @@
-# Extended Description 
+# Description 
 This project presents a comprehensive system for monitoring the health of three-phase induction motors using fuzzy logic and real-time sensor data. It leverages ESP32, PZEM modules, and sensors to continuously track voltage, current, temperature, and vibration. The system intelligently classifies the motor’s condition into Normal, Warning, or Critical using fuzzy logic algorithms.
 
 # Key features include
@@ -17,7 +17,7 @@ This project presents a comprehensive system for monitoring the health of three-
 
 This system is ideal for industrial automation, predictive maintenance, and smart motor control.
 
-##  Hardware Used
+#Hardware Used
 
 - ESP32 Board
 
@@ -247,7 +247,7 @@ Steps:
 
 -Retry publishing if the transmission fails.
 
-##Hardware
+## Hardware
 
 schematic
 
@@ -261,7 +261,7 @@ Block_Diagram
 
 ![Block_Diagram](https://github.com/user-attachments/assets/17613bca-b42b-4d8e-86e1-91048929f7ed)
 
-##Flowchart
+## Flowchart
 
 ![Flowchart](https://github.com/user-attachments/assets/317adad7-0a54-44be-903f-af3c3b61b788)
 
