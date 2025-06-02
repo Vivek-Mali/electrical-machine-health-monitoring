@@ -16,3 +16,15 @@ This project presents a comprehensive system for monitoring the health of three-
 -Predictive Maintenance: Reduces downtime and improves operational reliability
 
 This system is ideal for industrial automation, predictive maintenance, and smart motor control.
+## 💡 Features
+
+- Real-time monitoring of voltage, current, power, temperature, and vibration.
+  
+- Fuzzy logic for classifying motor status: Normal, Warning, Critical.
+  
+- IoT integration via MQTT/HTTP for remote monitoring.
+
+- SMS alerts for critical faults using GSM module.
+
+- Local feedback using LCD display and buzzer alerts.
+  
