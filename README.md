@@ -4,10 +4,15 @@ This project presents a comprehensive system for monitoring the health of three-
 # Key features include:
 
 -Sensor Integration: Real-time voltage, current, power, temperature, and vibration monitoring
+
 -IoT Dashboard: MQTT-based data transmission for remote visualization
+
 -GSM Alerts: SMS notifications on critical motor faults
+
 -Local Display: LCD for on-site monitoring
+
 -Fuzzy Logic: Smart fault classification that handles sensor uncertainty
+
 -Predictive Maintenance: Reduces downtime and improves operational reliability
 
 This system is ideal for industrial automation, predictive maintenance, and smart motor control.
