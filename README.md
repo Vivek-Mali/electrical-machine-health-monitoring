@@ -51,7 +51,6 @@ This system is ideal for industrial automation, predictive maintenance, and smar
 # Published Paper link
 https://www.ijarse.com/images/fullpdf/1741240310_H2080.pdf
 
-#Firmware
 
 
 
