@@ -42,3 +42,8 @@ This system is ideal for industrial automation, predictive maintenance, and smar
 - Visual Studio Code
 
 - MQTT Broker
+
+## documentation
+[Report.PDF](https://github.com/user-attachments/files/20546798/Final_Report.PDF)
+
+
