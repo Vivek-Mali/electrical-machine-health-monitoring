@@ -16,15 +16,29 @@ This project presents a comprehensive system for monitoring the health of three-
 -Predictive Maintenance: Reduces downtime and improves operational reliability
 
 This system is ideal for industrial automation, predictive maintenance, and smart motor control.
-## 💡 Features
 
-- Real-time monitoring of voltage, current, power, temperature, and vibration.
-  
-- Fuzzy logic for classifying motor status: Normal, Warning, Critical.
-  
-- IoT integration via MQTT/HTTP for remote monitoring.
+##  Hardware Used
 
-- SMS alerts for critical faults using GSM module.
+- ESP32 Board
 
-- Local feedback using LCD display and buzzer alerts.
-  
+- PZEM-004T Power Monitoring Modules
+
+- DS18B20 Temperature Sensor
+
+- ADXL345 Vibration Sensor
+
+- GSM Module (SIM800L)
+
+- LCD 16*2 Display
+
+- Buzzer
+ 
+## Software/Tools
+
+- Arduino IDE
+
+- Easy EDA
+
+- Visual Studio Code
+
+- MQTT Broker
