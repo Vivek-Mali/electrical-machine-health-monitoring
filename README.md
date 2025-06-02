@@ -247,4 +247,24 @@ Steps:
 
 -Retry publishing if the transmission fails.
 
+##Hardware
+
+schematic
+![Schematic](https://github.com/user-attachments/assets/28fdbcbf-9543-4db0-be51-224fd444404e)
+
+PCB_Layout
+![PCB_Layout](https://github.com/user-attachments/assets/872cf9c7-7c6f-4402-aca3-df571846770d)
+
+Block_Diagram
+![Block_Diagram](https://github.com/user-attachments/assets/17613bca-b42b-4d8e-86e1-91048929f7ed)
+
+##Flowchart
+
+![Flowchart](https://github.com/user-attachments/assets/317adad7-0a54-44be-903f-af3c3b61b788)
+
+Working_Diagram
+![Working_Diagram](https://github.com/user-attachments/assets/3eae65de-7f79-40eb-a4a2-f370262f156d)
+
+
+
 
