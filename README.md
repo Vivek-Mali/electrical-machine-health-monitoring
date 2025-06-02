@@ -47,9 +47,11 @@ This system is ideal for industrial automation, predictive maintenance, and smar
 [Report.pdf](https://github.com/user-attachments/files/20546798/Final_Report.PDF)
 
 [EMHM_Paper.pdf](https://github.com/user-attachments/files/20547039/1741240310_H2080.pdf)
+
 # Published Paper link
 https://www.ijarse.com/images/fullpdf/1741240310_H2080.pdf
 
+#Firmware
 
 
 
