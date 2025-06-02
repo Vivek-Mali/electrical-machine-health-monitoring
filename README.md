@@ -1,4 +1,4 @@
-[1741240310_H2080.pdf](https://github.com/user-attachments/files/20547028/1741240310_H2080.pdf)# Extended Description 
+# Extended Description 
 This project presents a comprehensive system for monitoring the health of three-phase induction motors using fuzzy logic and real-time sensor data. It leverages ESP32, PZEM modules, and sensors to continuously track voltage, current, temperature, and vibration. The system intelligently classifies the motor’s condition into Normal, Warning, or Critical using fuzzy logic algorithms.
 
 # Key features include
@@ -45,6 +45,7 @@ This system is ideal for industrial automation, predictive maintenance, and smar
 
 ## Documentation
 [Report.pdf](https://github.com/user-attachments/files/20546798/Final_Report.PDF)
+
 [EMHM_Paper.pdf](https://github.com/user-attachments/files/20547039/1741240310_H2080.pdf)
 # Published Paper link
 https://www.ijarse.com/images/fullpdf/1741240310_H2080.pdf
