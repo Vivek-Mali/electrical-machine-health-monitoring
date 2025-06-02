@@ -44,9 +44,9 @@ This system is ideal for industrial automation, predictive maintenance, and smar
 - MQTT Broker
 
 ## Documentation
-[Report.pdf](https://github.com/user-attachments/files/20546798/Final_Report.PDF)
+📄[Report.pdf](https://github.com/user-attachments/files/20546798/Final_Report.PDF)
 
-[EMHM_Paper.pdf](https://github.com/user-attachments/files/20547039/1741240310_H2080.pdf)
+📄[EMHM_Paper.pdf](https://github.com/user-attachments/files/20547039/1741240310_H2080.pdf)
 
 ## Published Paper link
 https://www.ijarse.com/images/fullpdf/1741240310_H2080.pdf
@@ -288,5 +288,14 @@ https://drive.google.com/file/d/1OLE9NDAUVFJ6cNfOJ8RM70nyzRCLB4V3/view?usp=shari
 
 https://drive.google.com/file/d/1PW4mfnNMRa0na9L72kXbzkxOPEjYd0Wv/view?usp=sharing
 
+# Conclusions 
+The development of an advanced fault detection and monitoring system for three-phase induction motors using fuzzy logic 
+and IoT technologies has demonstrated a robust and effective solution for ensuring operational reliability. By integrating 
+sensors for real-time data acquisition, fuzzy logic for precise fault classification, and IoT platforms for remote monitoring, the 
+system enables proactive maintenance and reduces downtime. The inclusion of GSM alerts ensures timely intervention, while 
+the LCD display provides local insights into motor health. This holistic approach not only addresses the limitations of 
+traditional fault detection methods but also enhances the overall efficiency and lifespan of induction motors. The project 
+exemplifies the potential of combining advanced algorithms and modern communication technologies to meet the needs of 
+industries reliant on motor-driven systems. 
 
 
