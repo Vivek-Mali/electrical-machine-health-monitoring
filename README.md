@@ -249,7 +249,7 @@ Steps:
 
 ## Hardware
 
-schematic
+Schematic
 
 ![Schematic](https://github.com/user-attachments/assets/28fdbcbf-9543-4db0-be51-224fd444404e)
 
@@ -270,6 +270,7 @@ Working_Diagram
 ![Working_Diagram](https://github.com/user-attachments/assets/3eae65de-7f79-40eb-a4a2-f370262f156d)
 
 # Images
+
 Model
 
 ![Model](https://github.com/user-attachments/assets/4d576fdf-10e7-493b-8d28-26a191406039)
@@ -282,7 +283,7 @@ Alert Msg
 
 ![Alert msg](https://github.com/user-attachments/assets/37f1d385-f16d-4944-be4a-bf46f1b91535)
 
-# Demo_Video
+# Demo Video
 
 https://drive.google.com/file/d/1OLE9NDAUVFJ6cNfOJ8RM70nyzRCLB4V3/view?usp=sharing
 
